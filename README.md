@@ -11,12 +11,15 @@ A classic Tic Tac Toe game built with HTML, CSS, and JavaScript. Play against a 
 <br>
 🔄 Reset Option: Restart the game with a single click.
 <br>
+<br>
 🚀 Tech Stack
+<br>
 HTML: Structure of the game board.
 <br>
 CSS: Styling and layout for an engaging look.
 <br>
 JavaScript: Game logic and interactivity.
+<br>
 <br>
 📂 Project Structure
 /index.html - Game structure and layout.
@@ -24,6 +27,7 @@ JavaScript: Game logic and interactivity.
 /styles.css - Styles for the game board and UI.
 <br>
 /script.js - Game logic, win detection, and reset functionality.
+<br>
 <br>
 🎯 Future Enhancements
 <br>
